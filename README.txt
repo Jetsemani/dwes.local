@@ -1,37 +1,19 @@
-# DWES.local 🚀
+########## PLEASE READ CAREFULLY ###########
 
-> ⚠️ Esta plantilla debe ser usada con precaución porque pertenece al **mejor developer que ha conocido la humanidad**.  
-> — **JORGE TADEO NEGRÓN**
+This template is the creative and honest work of its author, Penoel Koukou.
+It is distributed by BeauxThemes.com under a written and documented 
+contract between the author and the owners of BeauxThemes.com
 
----
+BeauxThemes.com and the author hold the copyright to this template.
+That being said, you do not have the right to sell it or distribute in any way
+without the written consents of the author and the owners of BeauxThemes.
 
-## 👑 Hall of Fame
+You can, however, use it for your own website or your client's website if you are a 
+web developer. You are allowed to use the template on only ONE website.
 
-![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+The pictures and resources used in the design of this template are the properties of 
+their respective owners.
 
-El poder de la nube y la sabiduría ancestral unidos en un solo repositorio.  
-Aquí no hay *bugs*, solo **funcionalidades no documentadas**.
 
----
-
-## 📸 La Leyenda
-
-![El Maestro](https://i.pinimg.com/280x280_RS/fa/7f/d6/fa7fd695ab3075efd4b8b963359e64ca.jpg)
-
-> *"Si funciona, no preguntes por qué"* — un sabio anónimo (pero seguro que lo conocía Tadeo).
-
----
-
-## 📬 Contacto
-
-Si deseas rendir tributo, puedes dejar tu mensaje en el oráculo oficial:  
-👉 [jorgenegron.com/contact](http://jorgenegron.com/contact)
-
----
-
-## 🧙‍♂️ Bonus Track
-
-- ✅ 100% libre de cilantro 🌿🚫  
-- ☁️ Optimizado para la nube (cuando no hay tormenta)  
-- 🐘 Compatible con PostgreSQL, porque MySQL se asusta.  
-- 🎭 README escrito con amor, sarcasmo y un poco de cafeína.  
+######### CONTACT #########
+http://beauxthemes.com/contact
